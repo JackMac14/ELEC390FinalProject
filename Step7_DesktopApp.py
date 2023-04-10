@@ -65,4 +65,4 @@ process_button = tk.Button(root, text="Process", command=process_file)
 process_button.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
 
 # Run GUI event loop
-root.mainloop()
+root.mainloop() 
